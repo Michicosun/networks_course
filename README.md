@@ -1,1 +1,1 @@
-This is repository of homeworks for network course
+This is repository with homeworks for network course
